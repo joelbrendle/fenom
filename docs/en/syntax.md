@@ -99,7 +99,7 @@ Unnamed system variable starts with `$.` and allows access to global system vari
 ```
 
 
-Безименная системная переменная начинается с `$.` и предоставляет доступ к глобальным системным переменным и системной информации:
+Eine unveränderliche Systemvariable beginnt mit `$.` und ermöglicht den Zugriff auf globale Systemvariablen und Systeminformationen:
 
 * `$.env` — array `$_ENV`.
 * `$.get` — array `$_GET`.
